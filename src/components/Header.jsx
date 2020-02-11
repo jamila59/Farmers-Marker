@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header(){
     return(
-        <h1>Farmers Marker</h1>
+        <h1>Avery's Organics</h1>
     );
 }
 
