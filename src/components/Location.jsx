@@ -7,7 +7,7 @@ function Location(props){
         <div>
           <style jsx>{`
           div {
-            background-color: red;
+            background-color: coral;
           }
         `}</style>
             <h3>{props.location}</h3>

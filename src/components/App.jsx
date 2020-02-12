@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './Header';
 import TicketList from './LocationList';
 import NavBar from './NavBar'
+import MediaCard from './Card'
 
 
 function App(){
@@ -9,7 +10,7 @@ function App(){
         <div>
             <Header/>
             <NavBar />
-            <TicketList/>
+            <MediaCard/>
         </div>
     );
 }
